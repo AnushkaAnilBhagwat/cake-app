@@ -11,7 +11,7 @@ function Navbar(){
                 </div>
                 <div className="menu">
                 <AnchorLink href="#title">
-                    <button className="menu-button">Courses</button>
+                    <button className="menu-button">Home</button>
                 </AnchorLink>
                 <AnchorLink href="#course">
                     <button className="menu-button">Courses</button>
